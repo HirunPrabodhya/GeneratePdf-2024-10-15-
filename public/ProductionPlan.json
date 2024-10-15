@@ -1,0 +1,653 @@
+[
+    {
+        "effectMonth": "2024-06",
+        "sectionId": 23,
+        "sectionName": "Drill",
+        "itemSummeries": [
+            {
+                "pieceRateItemName": "KDCA 001",
+                "pieceRateItemId": 22,
+                "qty": 303.99999999999999999993,
+                "productionPlanQty": 300.000000000,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KDCA 001",
+                        "pieceRateItemId": 22,
+                        "qty": 32.60714285714285714285,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KDCA 001",
+                        "pieceRateItemId": 22,
+                        "qty": 215.39285714285714285710,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    },
+                    {
+                        "pieceRateItemName": "KDCA 001",
+                        "pieceRateItemId": 22,
+                        "qty": 55.99999999999999999998,
+                        "rateTypeName": "Helper Only",
+                        "rateTypeId": 4
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KBC 003",
+                "pieceRateItemId": 20,
+                "qty": 149.99999999999999999997,
+                "productionPlanQty": 211.000000000,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KBC 003",
+                        "pieceRateItemId": 20,
+                        "qty": 64.28571428571428571426,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    },
+                    {
+                        "pieceRateItemName": "KBC 003",
+                        "pieceRateItemId": 20,
+                        "qty": 10.71428571428571428571,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KBC 003",
+                        "pieceRateItemId": 20,
+                        "qty": 75.00000000000000000000,
+                        "rateTypeName": "Helper Only",
+                        "rateTypeId": 4
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KBCA 007 ",
+                "pieceRateItemId": 1078,
+                "qty": 71.99999999999999999992,
+                "productionPlanQty": 500.000000000,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KBCA 007 ",
+                        "pieceRateItemId": 1078,
+                        "qty": 10.21190476190476190475,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KBCA 007 ",
+                        "pieceRateItemId": 1078,
+                        "qty": 61.78809523809523809517,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KWU 022",
+                "pieceRateItemId": 1215,
+                "qty": 36.99999999999999999998,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KWU 022",
+                        "pieceRateItemId": 1215,
+                        "qty": 5.45833333333333333333,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KWU 022",
+                        "pieceRateItemId": 1215,
+                        "qty": 31.54166666666666666665,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "BKBS 004",
+                "pieceRateItemId": 1217,
+                "qty": 199.99999999999999999988,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "BKBS 004",
+                        "pieceRateItemId": 1217,
+                        "qty": 26.98809523809523809522,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "BKBS 004",
+                        "pieceRateItemId": 1217,
+                        "qty": 173.01190476190476190466,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KDRI 001 ",
+                "pieceRateItemId": 1113,
+                "qty": 99.99999999999999999994,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KDRI 001 ",
+                        "pieceRateItemId": 1113,
+                        "qty": 13.30357142857142857142,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KDRI 001 ",
+                        "pieceRateItemId": 1113,
+                        "qty": 86.69642857142857142852,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KSR 018",
+                "pieceRateItemId": 1214,
+                "qty": 9.99999999999999999994,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KSR 018",
+                        "pieceRateItemId": 1214,
+                        "qty": 1.42857142857142857142,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KSR 018",
+                        "pieceRateItemId": 1214,
+                        "qty": 8.57142857142857142852,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KBKE 015",
+                "pieceRateItemId": 23,
+                "qty": 43.99999999999999999998,
+                "productionPlanQty": 300.000000000,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KBKE 015",
+                        "pieceRateItemId": 23,
+                        "qty": 38.10714285714285714284,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    },
+                    {
+                        "pieceRateItemName": "KBKE 015",
+                        "pieceRateItemId": 23,
+                        "qty": 5.89285714285714285714,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KOC 039 ",
+                "pieceRateItemId": 1083,
+                "qty": 99.99999999999999999996,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KOC 039 ",
+                        "pieceRateItemId": 1083,
+                        "qty": 13.03571428571428571428,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KOC 039 ",
+                        "pieceRateItemId": 1083,
+                        "qty": 86.96428571428571428568,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KWU 021",
+                "pieceRateItemId": 24,
+                "qty": 38.99999999999999999994,
+                "productionPlanQty": 100.000000000,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KWU 021",
+                        "pieceRateItemId": 24,
+                        "qty": 5.05357142857142857142,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KWU 021",
+                        "pieceRateItemId": 24,
+                        "qty": 33.94642857142857142852,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KWKE 004",
+                "pieceRateItemId": 25,
+                "qty": 207.99999999999999999992,
+                "productionPlanQty": 20.000000000,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KWKE 004",
+                        "pieceRateItemId": 25,
+                        "qty": 28.19642857142857142856,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KWKE 004",
+                        "pieceRateItemId": 25,
+                        "qty": 179.80357142857142857136,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KWSU 010",
+                "pieceRateItemId": 1218,
+                "qty": 100.00000000000000000000,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KWSU 010",
+                        "pieceRateItemId": 1218,
+                        "qty": 12.50000000000000000000,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KWSU 010",
+                        "pieceRateItemId": 1218,
+                        "qty": 87.50000000000000000000,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KWSU 012",
+                "pieceRateItemId": 1219,
+                "qty": 100.00000000000000000000,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KWSU 012",
+                        "pieceRateItemId": 1219,
+                        "qty": 12.50000000000000000000,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KWSU 012",
+                        "pieceRateItemId": 1219,
+                        "qty": 87.50000000000000000000,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KOC 038",
+                "pieceRateItemId": 1220,
+                "qty": 99.99999999999999999998,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KOC 038",
+                        "pieceRateItemId": 1220,
+                        "qty": 1.87500000000000000000,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KOC 038",
+                        "pieceRateItemId": 1220,
+                        "qty": 13.12500000000000000000,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    },
+                    {
+                        "pieceRateItemName": "KOC 038",
+                        "pieceRateItemId": 1220,
+                        "qty": 84.99999999999999999998,
+                        "rateTypeName": "Helper Only",
+                        "rateTypeId": 4
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KOC 005",
+                "pieceRateItemId": 1221,
+                "qty": 99.99999999999999999994,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KOC 005",
+                        "pieceRateItemId": 1221,
+                        "qty": 19.99999999999999999995,
+                        "rateTypeName": "Helper Only",
+                        "rateTypeId": 4
+                    },
+                    {
+                        "pieceRateItemName": "KOC 005",
+                        "pieceRateItemId": 1221,
+                        "qty": 10.44642857142857142857,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KOC 005",
+                        "pieceRateItemId": 1221,
+                        "qty": 69.55357142857142857142,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KBRI 007",
+                "pieceRateItemId": 26,
+                "qty": 99.99999999999999999996,
+                "productionPlanQty": 120.000000000,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KBRI 007",
+                        "pieceRateItemId": 26,
+                        "qty": 13.03571428571428571428,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KBRI 007",
+                        "pieceRateItemId": 26,
+                        "qty": 86.96428571428571428568,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KOC 007",
+                "pieceRateItemId": 1222,
+                "qty": 99.99999999999999999994,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KOC 007",
+                        "pieceRateItemId": 1222,
+                        "qty": 13.92857142857142857142,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KOC 007",
+                        "pieceRateItemId": 1222,
+                        "qty": 86.07142857142857142852,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KWAD 001",
+                "pieceRateItemId": 1049,
+                "qty": 81.99999999999999999995,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KWAD 001",
+                        "pieceRateItemId": 1049,
+                        "qty": 10.35714285714285714285,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KWAD 001",
+                        "pieceRateItemId": 1049,
+                        "qty": 71.64285714285714285710,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KWBO 003",
+                "pieceRateItemId": 27,
+                "qty": 449.99999999999999999992,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KWBO 003",
+                        "pieceRateItemId": 27,
+                        "qty": 59.24642857142857142856,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KWBO 003",
+                        "pieceRateItemId": 27,
+                        "qty": 390.75357142857142857136,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KDBO 001",
+                "pieceRateItemId": 1223,
+                "qty": 499.99999999999999999987,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KDBO 001",
+                        "pieceRateItemId": 1223,
+                        "qty": 76.29999999999999999998,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KDBO 001",
+                        "pieceRateItemId": 1223,
+                        "qty": 423.69999999999999999989,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KWAL 004",
+                "pieceRateItemId": 1059,
+                "qty": 84.99999999999999999984,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KWAL 004",
+                        "pieceRateItemId": 1059,
+                        "qty": 13.71428571428571428569,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KWAL 004",
+                        "pieceRateItemId": 1059,
+                        "qty": 71.28571428571428571415,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KSS 017",
+                "pieceRateItemId": 28,
+                "qty": 100.00000000000000000000,
+                "productionPlanQty": 120.000000000,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KSS 017",
+                        "pieceRateItemId": 28,
+                        "qty": 12.50000000000000000000,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KSS 017",
+                        "pieceRateItemId": 28,
+                        "qty": 87.50000000000000000000,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KCD 002",
+                "pieceRateItemId": 29,
+                "qty": 159.99999999999999999995,
+                "productionPlanQty": 60.000000000,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KCD 002",
+                        "pieceRateItemId": 29,
+                        "qty": 22.85714285714285714285,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KCD 002",
+                        "pieceRateItemId": 29,
+                        "qty": 137.14285714285714285710,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "BKBS 003",
+                "pieceRateItemId": 30,
+                "qty": 456.99999999999999999987,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "BKBS 003",
+                        "pieceRateItemId": 30,
+                        "qty": 396.69047619047619047608,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    },
+                    {
+                        "pieceRateItemName": "BKBS 003",
+                        "pieceRateItemId": 30,
+                        "qty": 60.30952380952380952379,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KCAL 001",
+                "pieceRateItemId": 1224,
+                "qty": 99.99999999999999999998,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KCAL 001",
+                        "pieceRateItemId": 1224,
+                        "qty": 20.64285714285714285714,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KCAL 001",
+                        "pieceRateItemId": 1224,
+                        "qty": 79.35714285714285714284,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KSD 008",
+                "pieceRateItemId": 1225,
+                "qty": 253.99999999999999999994,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KSD 008",
+                        "pieceRateItemId": 1225,
+                        "qty": 34.93452380952380952380,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KSD 008",
+                        "pieceRateItemId": 1225,
+                        "qty": 219.06547619047619047614,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KBCA 008",
+                "pieceRateItemId": 1226,
+                "qty": 205.99999999999999999987,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KBCA 008",
+                        "pieceRateItemId": 1226,
+                        "qty": 28.74404761904761904760,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KBCA 008",
+                        "pieceRateItemId": 1226,
+                        "qty": 177.25595238095238095227,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            },
+            {
+                "pieceRateItemName": "KDAL 002",
+                "pieceRateItemId": 1227,
+                "qty": 19.99999999999999999995,
+                "productionPlanQty": 0,
+                "rateTypeDatas": [
+                    {
+                        "pieceRateItemName": "KDAL 002",
+                        "pieceRateItemId": 1227,
+                        "qty": 2.85714285714285714285,
+                        "rateTypeName": "Operator",
+                        "rateTypeId": 1
+                    },
+                    {
+                        "pieceRateItemName": "KDAL 002",
+                        "pieceRateItemId": 1227,
+                        "qty": 17.14285714285714285710,
+                        "rateTypeName": "Helper",
+                        "rateTypeId": 2
+                    }
+                ]
+            }
+        ]
+    }
+]

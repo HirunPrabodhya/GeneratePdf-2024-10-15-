@@ -1,0 +1,80 @@
+
+        <ng-container *ngFor="let jCard of jobCardsData">
+            <div class="row">
+                <div class="col topBoarder">
+                    <ul>
+                        <li>EffectMonth: {{jCard.effectMonth}}</li>
+                        <li>SectionId: {{jCard.sectionId}}</li>
+                        <li>SectionName:{{jCard.sectionName}}</li>
+                    </ul>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 my-2">
+                    <input type="text" [(ngModel)]="filterByItem" class="form-control">
+                </div>
+                <div class="col my-2">
+                    
+                    <button #btnVar1 value="1" (click)="shortByQty(btnVar1)" class="btn btn-info me-2">
+                        <img src="images/alphabet.png" alt="sortac" width="30" height="30">
+
+                    </button>
+                    <button  #btnVar2 value="2" (click)="shortByQty(btnVar2)" class="btn btn-info">
+                        <img src="images/sort-az.png" alt="sortdc" width="30" height="30">
+                    </button>
+                   <button class="btn btn-primary" (click)="downloadPdf()">download pdf</button>
+                </div>
+              
+               
+            </div>
+            <div class="row" *ngIf="filterByItem">
+                <label for="" clas="col-md-4"><b>FilterBy:</b> {{filterByItem}}</label>
+            </div>
+            <div class="row">
+                 
+                <div class="table-responsive">
+                    <table class="table" id="pieceTable">
+                        <thead>
+                            <tr>
+                                <th>PieceRateItemName</th>
+                                <th>PiecerateItemId</th>
+                                <th>Quantity</th>
+                                <th>Production Plan Qty</th>
+                                <th>pieceRateItemName</th>
+                                <th>pieceRateItemId</th>
+                                <th>qty</th>
+                                <th>rateTypeName</th>
+                                <th>rateTypeId</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <ng-container *ngFor="let itemSummer of jobCardsDataFiltered">
+                                <ng-container *ngFor="let rateTypeDate of itemSummer.rateTypeDatas;let rateTypeIndex =index">
+                                    <tr>
+                                        <td *ngIf="rateTypeIndex === 0" [rowSpan]="itemSummer.rateTypeDatas.length">{{itemSummer.pieceRateItemName}}</td>
+                                        <td *ngIf="rateTypeIndex === 0" [rowSpan]="itemSummer.rateTypeDatas.length">{{itemSummer.pieceRateItemId}}</td>
+                                        <td *ngIf="rateTypeIndex === 0" [rowSpan]="itemSummer.rateTypeDatas.length">{{itemSummer.qty}}</td>
+                                        <td *ngIf="rateTypeIndex === 0" [rowSpan]="itemSummer.rateTypeDatas.length">{{itemSummer.productionPlanQty}}</td>
+                                        <td>{{rateTypeDate.pieceRateItemName}}</td>
+                                        <td>{{rateTypeDate.pieceRateItemId}}</td>
+                                        <td>{{rateTypeDate.qty}}</td>
+                                        <td>{{rateTypeDate.rateTypeName}}</td>
+                                        <td>{{rateTypeDate.rateTypeId}}</td>
+                                    </tr>
+                                   
+                                    
+                                </ng-container>
+                                
+                            </ng-container>
+                           
+                        </tbody>
+                           
+                    </table>
+                </div>
+            </div>
+            
+        </ng-container>
+       
+        
+       
